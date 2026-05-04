@@ -1,0 +1,2 @@
+The project demonstrates the practical configuration and management of fundamental network services and devices, including VLAN creation and configuration, hostname assignment, secure access through enable passwords, IP address allocation to VLAN interfaces, and other essential network administration tasks.
+It serves as a hands-on implementation of core networking concepts and best practices in network setup, segmentation, and device management.
